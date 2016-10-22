@@ -1,6 +1,6 @@
 #2D Shooters
 
-https://3.bp.blogspot.com/-UR0xt049cKQ/UVIfLuo4RtI/AAAAAAAAAHk/-uDojbibS_I/s1600/G%C3%BCrsu+A%C5%9F%C4%B1k+2D+Shooters.jpg
+<img border="0" src="https://3.bp.blogspot.com/-UR0xt049cKQ/UVIfLuo4RtI/AAAAAAAAAHk/-uDojbibS_I/s320/G%C3%BCrsu+A%C5%9F%C4%B1k+2D+Shooters.jpg">
 
 Top arabasının mermisi kavisli hareket edebilmesi için klavye tuşları ile yukarı-aşağı açısı ayarlanır, space tuşuna basma uzunlu kadar merminin ilerleme gücü ayarlanır. Diğer top arabaları hedef olarak vurulması sağlanır.
 
