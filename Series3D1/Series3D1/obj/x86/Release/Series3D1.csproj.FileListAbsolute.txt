@@ -1,0 +1,8 @@
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\bin\x86\Release\Content\effects.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\bin\x86\Release\Content\heightmap.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\bin\x86\Release\Series3D1.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\bin\x86\Release\Series3D1.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\obj\x86\Release\Series3D1.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D1\Series3D1\Series3D1\obj\x86\Release\Series3D1.pdb
