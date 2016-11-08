@@ -1,7 +1,7 @@
 #2D Shooters
 
-<img border="0" src="https://3.bp.blogspot.com/-UR0xt049cKQ/UVIfLuo4RtI/AAAAAAAAAHk/-uDojbibS_I/s320/G%C3%BCrsu+A%C5%9F%C4%B1k+2D+Shooters.jpg">
+<img border="0" src="https://2.bp.blogspot.com/-v0tvlmhl_Vk/UVIfM7MxQ4I/AAAAAAAAAH8/6g55Il1X7IA/s1600/G%25C3%25BCrsu+A%25C5%259F%25C4%25B1k+3D+Terrain.jpg">
 
-Top arabasının mermisi kavisli hareket edebilmesi için klavye tuşları ile yukarı-aşağı açısı ayarlanır, space tuşuna basma uzunlu kadar merminin ilerleme gücü ayarlanır. Diğer top arabaları hedef olarak vurulması sağlanır.
+Siyah-beyaz ve gri tonlarında bulunan bir resmin renk dolgunluğuna, yani 0-255 arası renk kodlarına göre derinlik kazandırılarak arazi oluşturuldu. Klavye tuşları ile sağa-sola döndürülmesi sağlandı. Alçak bölgelere ışıklandırma ve gölgelendirme yapıldı.
 
 https://gursuasik.blogspot.com.tr/2013/03/directx-3d-game-in-c-15-yllk-calsmann.html
